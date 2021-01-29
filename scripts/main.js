@@ -3,7 +3,7 @@ let myImage = document.querySelector('img');
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
     if(mySrc === 'images/haro-phone.jpeg') {
-      myImage.setAttribute('src','images/IKNOWYOUREHERE.png');
+      myImage.setAttribute('src','images/ereheruoywonki.png');
     } else {
       myImage.setAttribute('src','images/haro-phone.jpeg');
     }
